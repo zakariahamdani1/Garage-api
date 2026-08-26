@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-fcvw(j*9e(i!0q*d71@p!f_1+_qdinw@jrg#f4_2-v&mq%c801'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG =  True
+DEBUG =  False
 
 ALLOWED_HOSTS = ["garage-api-iein.onrender.com"]
 
